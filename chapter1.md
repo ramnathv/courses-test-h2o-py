@@ -1,9 +1,9 @@
 ---
-title: 'Chapter Title Here'
+title: 'Test H2O in Python'
 description: 'Chapter description goes here.'
 ---
 
-## Example coding exercise
+## Initialize H2O
 
 ```yaml
 type: NormalExercise
@@ -23,7 +23,8 @@ This is an example exercise.
 
 `@pre_exercise_code`
 ```{python}
-
+import h2o
+h2o.init()
 ```
 
 `@sample_code`

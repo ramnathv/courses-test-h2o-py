@@ -1,4 +1,4 @@
-title: test-h2o-py
-description: Course description goes here.
+title: Test H2O in Python
+description: Test H2O in Python
 programming_language: python
-from: python-base-prod:v1.0.2
+from: python-h2o-prod:v0.0.1
