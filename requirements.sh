@@ -1,6 +1,9 @@
 # If bash command fails, build should error out
 set -e
 
+# dummy commit to trigger build
+echo "test"
+
 # Install specific package versions with pip
 # Check the latest version using https://pypi.org/search
 
