@@ -54,6 +54,7 @@ type: NormalExercise
 lang: python
 xp: 100
 skills: 2
+key: 482097d6ba
 ```
 
 This is an example exercise.
