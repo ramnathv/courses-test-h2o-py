@@ -28,19 +28,16 @@ h2o.init()
 ```
 
 `@sample_code`
-
 ```{python}
 
 ```
 
 `@solution`
-
 ```{python}
 
 ```
 
 `@sct`
-
 ```{python}
 
 ```
@@ -51,10 +48,10 @@ h2o.init()
 
 ```yaml
 type: NormalExercise
+key: 482097d6ba
 lang: python
 xp: 100
 skills: 2
-key: 482097d6ba
 ```
 
 This is an example exercise.
@@ -66,14 +63,12 @@ This is an example exercise.
 
 
 `@pre_exercise_code`
-
 ```{python}
 import h2o
 h2o.init()
 ```
 
 `@sample_code`
-
 ```{python}
 prostate = h2o.load_dataset("prostate")
 prostate.describe()
@@ -94,7 +89,6 @@ prostate_glm.show()
 ```
 
 `@solution`
-
 ```{python}
 prostate = h2o.load_dataset("prostate")
 prostate.describe()
@@ -115,9 +109,6 @@ prostate_glm.show()
 ```
 
 `@sct`
-
 ```{python}
 
 ```
-
-
